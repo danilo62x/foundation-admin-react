@@ -6,8 +6,6 @@
 
 Foundation Admin / React é a implementação em React do layout admin Foundation: 5 templates irmãos compartilham as mesmas 25 telas e a mesma identidade visual, um por stack. Este aqui é feito com React 19 e hooks, estilizado com Foundation Sites 6.8 (folha de estilo pré-compilada). Autenticação e dados são fictícios, então a aplicação inteira roda sem backend. Vem com tema claro e escuro, três idiomas e configuração de PWA.
 
-Demonstração ao vivo: https://template.dev.br/preview/foundation-admin-react/
-
 ## Páginas incluídas
 
 25 páginas de rota em `src/pages/`:
@@ -109,11 +107,7 @@ Este repositório é uma de 5 implementações do mesmo layout admin Foundation.
 - Laravel 11 + Blade: https://github.com/danilo62x/foundation-admin-laravel
 - Static HTML: https://github.com/danilo62x/foundation-admin-html
 
-O catálogo completo de templates gratuitos e pagos está em https://template.dev.br
-
-## Apoie o projeto
-
-Este template é gratuito e licenciado sob MIT. Se ele te poupar tempo, você pode apoiar o trabalho com uma doação em https://template.dev.br/doar?template=foundation-admin-react
+Mais templates gratuitos (painéis admin, sistemas por segmento e apps Flutter): https://github.com/danilo62x?tab=repositories
 
 ## Licença
 
